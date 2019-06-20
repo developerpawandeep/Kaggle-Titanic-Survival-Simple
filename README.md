@@ -15,3 +15,5 @@ Practice Skills
     Python and R basics
     
 Next TARGET <3K
+# UPDATE = WE GOT UNDER 200 
+# Need to get over between 500 , 1000 AS this is overfitting !!!
