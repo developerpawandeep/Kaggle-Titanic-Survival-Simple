@@ -14,6 +14,5 @@ Practice Skills
     Binary classification
     Python and R basics
     
-Next TARGET <3K
-# UPDATE = WE GOT UNDER 200 
-Need to get between 500 , 1000 AS this is overfitting !!!
+
+Accuracy 78.5% 
